@@ -1,0 +1,13 @@
+
+html {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: rgb(0, 68, 255);
+    font-family: "Fredoka One";
+    padding: 0;
+    margin: 0;
+    /* font-weight:100; */
+}
